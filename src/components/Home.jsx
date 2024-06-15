@@ -65,17 +65,17 @@ const Home = () => {
 {/* 2nd section */}
 
 
-<section className=" w-full h-[100%] bg-white op">
+<section className=" w-full h-[100%] bg-white ">
 
 
 
-  <div className="hero sm:h-[100vh] lg:h-[100vh] relative opacity-95  " style={{backgroundImage: 'url(https://i.ibb.co/41qRbxn/Group-9462.png)', height:"",}}>
+  <div className="hero sm:h-auto lg:h-[100vh] relative opacity-95  " style={{backgroundImage: 'url(https://i.ibb.co/41qRbxn/Group-9462.png)', height:"",}}>
 
 
 
 
 
-  <div className=" w-full justify-center m-auto">
+  <div className="">
 
 
 
@@ -94,14 +94,20 @@ const Home = () => {
 
 
 
-<div className="flex justify-center">
+<div className="flex justify-center ">
   
   
-<div className="sm:grid  grid-cols-1 gap-7 absolute  -top-10 lg:absolute grid-cols-3 gap-20 justify-around px-10">
+<div className="sm:grid space-y-4 sm:flex-wrap-reverse grid-cols-1 gap-7 absolute sm:right-0-20 -top-10 lg:grid-cols-3 lg:gap-20 justify-center ml-0 p-0">
 
 
   
-<div  className="bg-white p-6 w-[25vw] shadow-md transition-transform duration-300 ease-in-out transform hover:scale-110   font-bold py-5 px-4 rounded">
+
+
+
+
+
+
+<div  className="bg-white p-6 sm:w-full lg:-[25vw] shadow-md transition-transform duration-300 ease-in-out transform hover:scale-110   font-bold  rounded">
   <h3 className="text-4xl text-[#00BBA6] "><MdWavingHand /></h3>
  <div className="flex justify-between">
  <p className=""><span className="font-bold">Kursy angielskiego</span><br></br>
@@ -113,7 +119,7 @@ const Home = () => {
  
 
 </div>
-<div  className="bg-white p-6 w-[25vw] shadow-md transition-transform duration-300 ease-in-out transform hover:scale-110  py-5 font-bold  px-4 rounded">
+<div  className="bg-white p-6 sm:w-full lg:w-[25vw] shadow-md transition-transform duration-300 ease-in-out transform hover:scale-110  py-5 font-bold  px-4 rounded">
   <h3 className="text-4xl text-[#00BBA6]"><IoIosContacts /></h3>
   <div className="flex justify-between">
  <p className=""><span className="font-bold">Kursy angielskiego</span><br></br>
@@ -123,7 +129,7 @@ const Home = () => {
 
  </div>
 </div>
-<div  className="bg-white w-[25vw] shadow-md transition-transform duration-300 ease-in-out transform hover:scale-110   font-bold py-2 px-4 rounded">
+<div  className="bg-white sm:w-full lg:w-[25vw] shadow-md transition-transform duration-300 ease-in-out transform hover:scale-110   font-bold py-2 px-4 rounded">
   <h3 className="text-4xl text-[#00BBA6]"><PiBagSimpleFill /></h3>
   <div className="flex justify-between">
  <p className=""><span className="font-bold">Kursy angielskiego</span><br></br>
@@ -159,7 +165,7 @@ const Home = () => {
 
 
       <div>
-            <div className="my-10 bg-black opa">
+            <div className="my-10 bg-black ">
            <div className="w-full h-[70vh]  bg-[url('https://i.ibb.co/1rcvrSB/9986cbd059152f1914932140504efa4f.jpg')] justify-center items-center bg-fixed bg-no-repeat">
 
 

@@ -117,7 +117,7 @@ h</Link>
 
 
        
-        <button className="hidden md:block bg-teal-500 text-white px-4 py-2 flex items-center rounded">
+        <button className="hidden md:block bg-teal-500 text-white px-4 py-2 lg:flex items-center rounded">
         <MdWifiCalling3 />Kontakt i pomoc</button>
       </div>
       <nav className="md:hidden flex justify-between items-center px-6 py-4 bg-white shadow">
