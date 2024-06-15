@@ -43,7 +43,7 @@ naszym technikom pamięciowym</p>
 
 
 {/* .............end.......... */}
-<section className="block lg:flex justify-between  ">
+<section className="block text-center lg:text-left lg:flex justify-between  ">
 
 
     <div>
@@ -51,7 +51,7 @@ naszym technikom pamięciowym</p>
 <div className="sm:w-[] p-5 lg:w-[20vw] space-y-6">
 <h1 className="text-2xl font-bold text-black"> Nasze metody</h1>
 
-<p className="text-black"> Jak to działa? Czy to działa? Przekonaj Czy to działa? Przekonaj się sam!</p>
+<p className="text-black"> Jak to działa? Czy to działa? Przekonaj Czy to działa? Przekonaj się Jak to działa? Czy to działa? Przekonaj Czy to działa? Przekonaj się sam!</p>
 <button className="btn btn-primary bg-[#00BBA6] text-black border-none mt-3">Czytaj więcej</button>
 </div>
 </div>
@@ -108,7 +108,7 @@ naszym technikom pamięciowym</p>
 <div className="w-[70vw]  lg:w-[20vw] m-auto h-[10vh] mb-32">
 <img className="h-[30vw] w-full lg:w-[7vw] lg:h-[10vh] m-auto" src="https://i.ibb.co/rwtLvkM/image-1.png" alt="" />
 <p> Koniec z wkuwaniem słów na pamięć!</p>
-</div>,,,,,
+</div>
 
 
 

@@ -28,7 +28,7 @@ const Home = () => {
 
 
 
-<div className="hero h-[70vh] p-10 w-full "  style={{backgroundImage: 'url(./public/banner1.png)'}}>
+<div className="hero h-[70vh] p-10 w-full "  style={{backgroundImage: 'url(https://i.ibb.co/348JqbP/banner1.png'}}>
   <div className="hero-overlay bg-opacity-20"></div>
   <div className="hero-content text-center text-neutral-content">
     <div className="max-w-md ">

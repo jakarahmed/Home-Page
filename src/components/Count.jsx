@@ -24,7 +24,7 @@ const Count = () => {
 
 
 
-    <div className="w-full lg:w-[30vw]">
+    <div className="w-full  lg:text-left lg:w-[50vw]">
       <h1 className="text-3xl font-bold text-[#00BBA6]"> Nasze metody</h1>
       <p className="py-6 text-white">Jesteśmy jedyną szkołą na świecie, która program nauczania na kursach ogólnych w pełni oparła na technikach szybkiego zapamiętywania.</p>
       <p className="text-white"> Jak to działa? Czy to działa? Przekonaj się sam!</p>
@@ -117,31 +117,31 @@ const Count = () => {
 <div className="block ml-14 space-y-4  lg:m-10 lg:flex justify-center">
 
 
-    <div className="  w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6] px-2 lg:px-10">
+    <div className="  w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6] pl-6 lg:px-10">
 <span className="countdown font-mono text-[#00BBA6]  text-6xl">
   <span style={{"--value":99}}></span>
 </span>
  <p>obrazków skojarzeniowych, które pomogą Ci zapamiętywać nowe słówka</p>
     </div>
-    <div className=" w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6] px-2 lg:px-10">
+    <div className=" w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6] pl-6 lg:px-10">
 <span className="countdown font-mono text-[#00BBA6] text-6xl">
   <span style={{"--value":11}}></span>
 </span>
  <p>zapamiętywać nowe słówka</p>
     </div>
-    <div className="  w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6]  px-2 lg:px-10">
+    <div className="  w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6]  pl-6 lg:px-10">
 <span className="countdown font-mono text-[#00BBA6] text-6xl">
   <span style={{"--value":22}}></span>
 </span>
  <p> które pomogą Ci zapamiętywać nowe słówka</p>
     </div>
-    <div className=" w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6]  px-2 lg:px-10">
+    <div className=" w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6]  pl-6 lg:px-10">
 <span className="countdown font-mono text-[#00BBA6] text-6xl">
   <span style={{"--value":5}}></span>
 </span>
  <p>obrazków skojarzeniowych,  zapamiętywać nowe słówka</p>
     </div>
-    <div className="  w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6]  px-2 lg:px-10">
+    <div className="  w-full lg:w-[20vw] h-auto border-l-2 border-[#00BBA6]  pl-6 lg:px-10">
 <span className="countdown font-mono text-[#00BBA6] text-6xl">
   <span style={{"--value":67}}></span>
 </span>

@@ -28,7 +28,7 @@ function Header() {
 
       <div className="container mx-auto px-6 py-4 flex items-center justify-between">
         <div className="flex items-center space-x-4">
-          <img src="../../public/Screenshot_38.png" alt="Logo" className="h-10 w-10" />
+          <img src="https://i.ibb.co/BtXbJjb/Screenshot-38.png" alt="Logo" className="h-10 w-10" />
           <Link to="/" className="text-xl font-bold text-gray-800">CO LUDZIE<br></br><span className=' font-normal'> POWIEDZĄ</span></Link>
         </div>
         <nav className="hidden md:flex space-x-4">
